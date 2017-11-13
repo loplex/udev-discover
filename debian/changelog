@@ -1,3 +1,9 @@
+udev-discover (0.2.3-1ubuntu1) UNRELEASED; urgency=medium
+
+  * Fixed dependant library package name (gir1.2-gudev-1.0)
+
+ -- Martin Lopatář <lopin@dataplex.cz>  Mon, 13 Nov 2017 01:44:20 +0100
+
 udev-discover (0.2.3-1) unstable; urgency=low
 
   * Migrated to gobject-introspection libraries Fixes #7
